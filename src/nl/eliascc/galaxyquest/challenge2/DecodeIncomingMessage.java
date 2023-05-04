@@ -8,11 +8,12 @@ public class DecodeIncomingMessage {
     }
 
     /*
-     *  Our current speed is much too low, and we will miss our rendezvous with the temporary wormhole
+     *  The spaceship's current speed is much too low, and we will miss our rendezvous with the temporary wormhole
      *  to take as to the other side of the galaxy. Fortunately we received a coded message from mission control
      *  that might solve the issue. But we need to decode it first.
      *
      * Complete the method below to decode the incoming byte array to a string. Then run main().
+     * The data consists of sequences of 2 or 3 bytes.
      * The first byte is the control byte telling you how to handle the following content byte:
      *
      * control byte = 0 : append the following byte (as ASCII character) to the end of the string.
