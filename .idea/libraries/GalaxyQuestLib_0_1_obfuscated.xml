@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="GalaxyQuestLib-0.1_obfuscated">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/GalaxyQuestLib-0.1_obfuscated.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
