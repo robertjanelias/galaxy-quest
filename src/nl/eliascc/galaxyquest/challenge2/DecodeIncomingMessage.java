@@ -9,7 +9,7 @@ public class DecodeIncomingMessage {
 
     /*
      *  The spaceship's current speed is much too low, and we will miss our rendezvous with the temporary wormhole
-     *  to take as to the other side of the galaxy. Fortunately we received a coded message from mission control
+     *  to take us to the other side of the galaxy. Fortunately we received a coded message from mission control
      *  that might solve the issue. But we need to decode it first.
      *
      * Complete the method below to decode the incoming byte array to a string. Then run main().
